@@ -2,7 +2,7 @@ import { nanoid } from 'nanoid';
 //http://localhost:8000/#!
 // HEAD DATA
 export const headData = {
-  title: 'OmeRam', // e.g: 'Name | Developer'
+  title: 'Omer Ram', // e.g: 'Name | Developer'
   lang: '', // e.g: en, es, fr, jp
   description: 'welcome to my website', // e.g: Welcome to my website
 };
@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'self.jpg',
-  paragraphOne: 'Hi ther, Im omer  Im a student for computer sunce a cognition',
-  paragraphTwo: 'Im a fullstack Developer, who love to code  Im currently learning React, Javascript, and Nodejs I am looking to collaborate with curious and passionate developers like me, to give and help as best I can for meaningful and extensive projects. Always want to learn more and move forward',
-  paragraphThree: 'I was in the process of developing my product, and from there I learned how to help friends and acquaintances develop their ideas. I will help you develop your product in a clean, fast and even fun way',
+  paragraphOne: 'Wile working at his previus work-place omer have developed major skills and passion for developing. he discoverd he hase this great abillity of learning by him self ',
+  paragraphTwo: 'Omer is a fullstack Developer, who loves to code . Hes currently working as a freelance , web and app developer. Hes looking to collaborate with curious and passionate developers like him, to give and help as best he can for meaningful and extensive projects. Always want to learn more and move forward',
+  paragraphThree: 'I learned how to help friends and acquaintances develop their ideas. He will help you develop your product in a clean, fast and even fun way. How can i help you?',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
@@ -34,6 +34,15 @@ export const projectsData = [
     info2: '',
     url: 'http://localhost:3000/',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'galgalyEzer.jpg',
+    title: 'Galgaley Ezer',
+    info: '',
+    info2: '',
+    url: 'https://galgaley-ezer.netlify.app/',
+    repo: 'https://github.com/0meram/course', // if no repo, the button will not show up
   },
   {
     id: nanoid(),

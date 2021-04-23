@@ -4,6 +4,7 @@ import About from './About/About';
 import Projects from './Projects/Projects';
 import Contact from './Contact/Contact';
 import Footer from './Footer/Footer';
+import Skills from "../components/skills/Skills"
 
 import { PortfolioProvider } from '../context/context';
 
@@ -28,6 +29,7 @@ function App() {
     <PortfolioProvider value={{ hero, about, projects, contact, footer }}>
       <Hero />
       <About />
+      {/* <Skills /> */}
       <Projects />
       <Contact />
       <Footer />
