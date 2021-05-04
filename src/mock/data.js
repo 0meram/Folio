@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'self.jpg',
+  img: 'stand.jpg',
   paragraphOne: 'Wile working at my previus work-place i have developed major skills and passion for developing. i discoverd this great abillity of self teaching ',
   paragraphTwo: 'I am a fullstack Developer, who loves to code . currently study in "itc" wile working as a freelance  , web and app developer. I am looking to collaborate with curious and passionate developers like , to give and help as best i can for meaningful and extensive projects. Always want to learn more and  detting better',
   paragraphThree: 'I have learned how to help friends and acquaintances develop their ideas. I will help you develop your product in a clean, fast and even fun way. How can i help you?',
@@ -41,7 +41,7 @@ export const projectsData = [
     title: 'Galgaley Ezer',
     info: 'עמותת גלגלי עזר חרטה על דגלה לקדם ולהשפיע על הנוער בחברה הישראלית במגוון תחומים ושלבים בחיי מטרתינו היא לסייע ולהכווין את דור העתיד בצמתים מרכזיים בחייו תוך מתן דגש על תוכן מקצועי וחוויתי בהליך קבוצתי איכותי וממוקד.',   
     info2: 'One pager project as a freelance',
-    url: 'https://galgaley-ezer.netlify.app/',
+    url: 'https://galgaleyezer.com/',
     repo: 'https://github.com/0meram/course', // if no repo, the button will not show up
   },
   {
