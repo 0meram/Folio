@@ -50,8 +50,8 @@ export const projectsData = [
     title: 'DisneyPlus',
     info: 'disney stream',
     info2: '',
-    url: '',
-    repo: 'https://omerdisney.netlify.app/', // if no repo, the button will not show up
+    url: 'https://omerdisney.netlify.app/',
+    repo: 'https://github.com/0meram/Disney', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
