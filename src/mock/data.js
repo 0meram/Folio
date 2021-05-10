@@ -46,6 +46,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'disney.jpg',
+    title: 'DisneyPlus',
+    info: 'disney stream',
+    info2: '',
+    url: '',
+    repo: 'https://omerdisney.netlify.app/', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'dolla.jpg',
     title: 'Dolla',
     info: 'Virtual banking',
@@ -53,15 +62,7 @@ export const projectsData = [
     url: 'https://dollarz.netlify.app/',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'burgerz.jpg',
-    title: 'Burgerz',
-    info: 'Restaurant',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
+
 ];
 
 // CONTACT DATA
