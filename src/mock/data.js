@@ -36,7 +36,7 @@ export const projectsData = [
     info: 'Car issue, We will fix it for you',
     info2: 'A big project that includes a team work of three full stack developers',
     url: 'https://key-4-you.com/',
-    // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo:'' //'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -55,7 +55,7 @@ export const projectsData = [
     info: 'disney stream',
     info2: '',
     url: 'https://omerdisney.netlify.app/',
-    // repo: 'https://github.com/0meram/Disney', // if no repo, the button will not show up
+    repo:'' //'https://github.com/0meram/Disney', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
