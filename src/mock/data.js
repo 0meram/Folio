@@ -18,10 +18,13 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'stand.jpg',
-  paragraphOne: 'Wile working at my previus work-place i have developed major skills and passion for developing. i discoverd this great abillity of self teaching ',
-  paragraphTwo: 'I am a fullstack Developer, who loves to code . currently study in "itc" wile working as a freelance  , web and app developer. I am looking to collaborate with curious and passionate developers like , to give and help as best i can for meaningful and extensive projects. Always want to learn more and  detting better',
-  paragraphThree: 'I have learned how to help friends and acquaintances develop their ideas. I will help you develop your product in a clean, fast and even fun way. How can i help you?',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  paragraphOne:
+    'Wile working at my previus work-place i have developed major skills and passion for developing. i discoverd this great abillity of self teaching ',
+  paragraphTwo:
+    'I am a fullstack Developer, who loves to code . currently study in "itc" wile working as a freelance  , web and app developer. I am looking to collaborate with curious and passionate developers like , to give and help as best i can for meaningful and extensive projects. Always want to learn more and  detting better',
+  paragraphThree:
+    'I have learned how to help friends and acquaintances develop their ideas. I will help you develop your product in a clean, fast and even fun way. How can i help you?',
+  resume: 'https://docs.google.com/document/d/1I0T7qYDc1PCxX4ChBYxfImLweK3gYD2G/edit', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -39,7 +42,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'galgalyEzer.jpg',
     title: 'Galgaley Ezer',
-    info: 'עמותת גלגלי עזר חרטה על דגלה לקדם ולהשפיע על הנוער בחברה הישראלית במגוון תחומים ושלבים בחיי מטרתינו היא לסייע ולהכווין את דור העתיד בצמתים מרכזיים בחייו תוך מתן דגש על תוכן מקצועי וחוויתי בהליך קבוצתי איכותי וממוקד.',   
+    info:
+      'Galgali Ezer is an association that promote and influence the youth in Israeli society in a variety of areas and stages in there lives after serving the army.',
     info2: 'One pager project as a freelance',
     url: 'https://galgaleyezer.com/',
     repo: 'https://github.com/0meram/course', // if no repo, the button will not show up
@@ -62,7 +66,6 @@ export const projectsData = [
     url: 'https://dollarz.netlify.app/',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
-
 ];
 
 // CONTACT DATA
@@ -70,7 +73,7 @@ export const contactData = {
   cta: '',
   btn: '',
   email: '0meram95@gmail.com',
-  phone: '0522689870'
+  phone: '0522689870',
 };
 
 // FOOTER DATA
