@@ -19,11 +19,11 @@ export const heroData = {
 export const aboutData = {
   img: 'stand.jpg',
   paragraphOne:
-    'Wile working at my previus work-place i have developed major skills and passion for developing. i discoverd this great abillity of self teaching ',
+  'I am a fullstack Developer, who loves to code . Looking to collaborate with curious and passionate developers like me, to contribute as best as possible for meaningful and extensive projects. Always want to learn more and  detting better',
   paragraphTwo:
-    'I am a fullstack Developer, who loves to code . currently study in "itc" wile working as a freelance  , web and app developer. I am looking to collaborate with curious and passionate developers like , to give and help as best i can for meaningful and extensive projects. Always want to learn more and  detting better',
+  'Wile working at my previous work-place i have developed major skills and passion for developing. i discovered this great ability of self teaching ',
   paragraphThree:
-    'I have learned how to help friends and acquaintances develop their ideas. I will help you develop your product in a clean, fast and even fun way. How can i help you?',
+    'Communicating with friends and acquaintances develop their ideas into reality. I will help you develop your product in a clean, fast and even fun way. How can i help you?',
   resume: 'https://docs.google.com/document/d/1I0T7qYDc1PCxX4ChBYxfImLweK3gYD2G/edit', // if no resume, the button will not show up
 };
 
