@@ -35,7 +35,7 @@ export const projectsData = [
     title: 'Carkey4u',
     info: 'Car issue, We will fix it for you',
     info2: 'A big project that includes a team work of three full stack developers',
-    url: 'Key-4-you.com',
+    url: 'https://key-4-you.com/',
     // repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   {
