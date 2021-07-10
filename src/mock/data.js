@@ -19,9 +19,9 @@ export const heroData = {
 export const aboutData = {
   img: 'stand.jpg',
   paragraphOne:
-  'I am a fullstack Developer, who loves to code . Looking to collaborate with curious and passionate developers like me, to contribute as best as possible for meaningful and extensive projects. Always want to learn more and  detting better',
+    'Dedicated and efficient full stack developer, who loves to code. Looking to collaborate with curious and passionate developers , and be part of meaningful projects.',
   paragraphTwo:
-  'Wile working at my previous work-place i have developed major skills and passion for developing. i discovered this great ability of self teaching ',
+    'Independent with high self-learning abilities.  Always want to learn more and to improve myself.',
   paragraphThree:
     'Communicating with friends and acquaintances develop their ideas into reality. I will help you develop your product in a clean, fast and even fun way. How can i help you?',
   resume: 'https://docs.google.com/document/d/1I0T7qYDc1PCxX4ChBYxfImLweK3gYD2G/edit', // if no resume, the button will not show up
