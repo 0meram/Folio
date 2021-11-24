@@ -17,14 +17,14 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'stand.jpg',
+  img: 'prof.jpg',
   paragraphOne:
     'Dedicated and efficient full stack developer, who loves to code. Looking to collaborate with curious and passionate developers , and be part of meaningful projects.',
   paragraphTwo:
     'Independent with high self-learning abilities.  Always want to learn more and to improve myself.',
   paragraphThree:
-    'Communicating with friends and acquaintances develop their ideas into reality. I will help you develop your product in a clean, fast and even fun way. How can i help you?',
-  resume: 'https://docs.google.com/document/d/1I0T7qYDc1PCxX4ChBYxfImLweK3gYD2G/edit', // if no resume, the button will not show up
+    'I believe in making friendly relationships with my clients. Your satisfaction is my top priority, i have gotten great reviews and happy clients. Id love to work with you too!.',
+  resume:'https://docs.google.com/document/d/1pUjJWcJ-IaFQmeOl9EDfi-HjaLAg9pLFR-fDaIH5SR8/edit?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -34,9 +34,19 @@ export const projectsData = [
     img: 'carKey.jpg',
     title: 'Carkey4u',
     info: 'Car issue, We will fix it for you',
-    info2: 'A big project that includes a team work of three full stack developers',
+    info2: 'Big project that includes a team work of three full stack developers',
     url: 'https://key-4-you.com/',
-    repo:'' //'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: '', //'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'rumble.jpg',
+    title: 'Rumble',
+    info: 'Hey! We are Rumble. And we convert steps into money.',
+    info2:
+      'With Rumble, you can save and earn money, spendable at hundreds of businesses! The healthier you are, the more coins you receive, the more money you earn!',
+    url: 'https://www.rumble.co.il/',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -50,21 +60,21 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'disney.jpg',
-    title: 'DisneyPlus',
-    info: 'disney stream',
-    info2: '',
-    url: 'https://omerdisney.netlify.app/',
-    repo:'' //'https://github.com/0meram/Disney', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
     img: 'dolla.jpg',
     title: 'Dolla',
     info: 'Virtual banking',
     info2: '',
     url: 'https://dollarz.netlify.app/',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'disney.jpg',
+    title: 'DisneyPlus',
+    info: 'disney stream',
+    info2: '',
+    url: 'https://omerdisney.netlify.app/',
+    repo: '', //'https://github.com/0meram/Disney', // if no repo, the button will not show up
   },
 ];
 
