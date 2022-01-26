@@ -24,7 +24,8 @@ export const aboutData = {
     'Independent with high self-learning abilities.  Always want to learn more and to improve myself.',
   paragraphThree:
     'I believe in making friendly relationships with my clients. Your satisfaction is my top priority, i have gotten great reviews and happy clients. Id love to work with you too!.',
-  resume:'https://docs.google.com/document/d/1pUjJWcJ-IaFQmeOl9EDfi-HjaLAg9pLFR-fDaIH5SR8/edit?usp=sharing', // if no resume, the button will not show up
+  resume:
+    'https://docs.google.com/document/d/1MKsgW1c5qIg64lVPMxcE8BCDPJ1RSWvV/edit#heading=h.gjdgxs', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
