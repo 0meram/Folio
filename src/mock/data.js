@@ -51,6 +51,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'fintastic.jpg',
+    title: 'Fintastic',
+    info: 'Front-end sprint environment fin-tech project',
+    info2: '',
+    url: 'https://app-d.fintastic.ai/analytics',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'galgalyEzer.jpg',
     title: 'Galgaley Ezer',
     info:
