@@ -32,12 +32,12 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'carKey.jpg',
-    title: 'Carkey4u',
-    info: 'Car issue, We will fix it for you',
-    info2: 'Big project that includes a team work of three full stack developers',
-    url: 'https://key-4-you.com/',
-    repo: '', //'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'fintastic.jpg',
+    title: 'Fintastic',
+    info: 'Front-end sprint environment fin-tech project',
+    info2: '',
+    url: 'https://www.fintastic.ai/',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -51,12 +51,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'fintastic.jpg',
-    title: 'Fintastic',
-    info: 'Front-end sprint environment fin-tech project',
-    info2: '',
-    url: 'https://app-d.fintastic.ai/analytics',
-    repo: '', // if no repo, the button will not show up
+    img: 'carKey.jpg',
+    title: 'Carkey4u',
+    info: 'Car issue, We will fix it for you',
+    info2: 'Big project that includes a team work of three full stack developers',
+    url: 'https://key-4-you.com/',
+    repo: '', //'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
