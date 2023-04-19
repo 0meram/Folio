@@ -29,66 +29,75 @@ export const aboutData = {
 };
 
 // PROJECTS DATA
-export const projectsData = [
-  {
-    id: nanoid(),
-    img: 'fintastic.jpg',
-    title: 'Fintastic',
-    info: 'Frontend developer in a start-up fin-tech company',
-    info2:
-      "As part of a five-member team, I helped develop demo dashboard features for an MVP using React, Redux, Material-UI, ag-Grid, and React-Query. My responsibilities included designing the structure, handling epic tasks, and collaborating in a sprint team environment. I also worked closely with backend developers, the product team, and customers to refine APIs and optimize UX/UI preferences.",
-    url: 'https://www.fintastic.ai/',
-    repo: '', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'rumble.jpg',
-    title: 'Rumble',
-    info: "Full-Stack Developer at YuviTal Rumble",
-    info2:
-      "I contributed to developing an admin dashboard and web components with React, MobX, and Material-UI in a team of six developers. I released six features to production, deployed the app using Heroku, added banners, and received a commendation from the CTO.",
-    url: 'https://www.rumble.co.il/',
-    repo: '', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'carKey.jpg',
-    title: 'Carkey4u',
-    info: 'Frontend developer',
-    info2:
-      "I collaborated with a team of four full-stack developers on a several-month project. My responsibilities included developing React UI components, closely adhering to Figma design specifications.",
-    url: 'https://key-4-you.com/',
-    repo: '', //'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'galgalyEzer.jpg',
-    title: 'Galgaley Ezer',
-    info:
-      'Freelance Full-stack developer',
-    info2:
-      "As a freelance Full Stack Developer for Galgaley-Ezer, an association that supports and impacts Israeli youth during their post-army lives, I worked closely with a private client on an end-to-end project. My responsibilities included defining the project's end goal, designing the layout, selecting suitable banner images and colors, and outlining the desired functionality. Throughout the process, I ensured the client was consistently updated on the project's progress.",
-    url: 'https://galgaleyezer.com/',
-    repo: 'https://github.com/0meram/course', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'dolla.jpg',
-    title: 'Dolla',
-    info: 'Virtual banking',
-    info2: '',
-    url: 'https://dollarz.netlify.app/',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'disney.jpg',
-    title: 'DisneyPlus',
-    info: 'disney stream',
-    info2: '',
-    url: 'https://omerdisney.netlify.app/',
-    repo: '', //'https://github.com/0meram/Disney', // if no repo, the button will not show up
-  },
+export const projectsData = [{
+  id: nanoid(),
+  img: 'uxwhite.png',
+  title: 'Brainnest',
+  info: 'UX/UI designer student',
+  info2:
+    "As a student at Brainnest Company, I gained experience in UX/UI design and learned industry-standard tools such as Figma. Through hands-on projects and collaboration with peers and instructors, I developed skills in user research, wireframing, prototyping, and visual design. The program provided a strong foundation in design principles and practical experience working on real-world design challenges.",
+  url: 'https://www.figma.com/file/iIN6mY6oOjWi6k32NxK6X3/Sushi?node-id=0%3A1&t=xs9CqKdtzgAQDKmZ-1',
+  repo: '', // if no repo, the button will not show up
+},
+{
+  id: nanoid(),
+  img: 'fintastic.jpg',
+  title: 'Fintastic',
+  info: 'Frontend developer in a start-up fin-tech company',
+  info2:
+    "As part of a five-member team, I helped develop demo dashboard features for an MVP using React, Redux, Material-UI, ag-Grid, and React-Query. My responsibilities included designing the structure, handling epic tasks, and collaborating in a sprint team environment. I also worked closely with backend developers, the product team, and customers to refine APIs and optimize UX/UI preferences.",
+  url: 'https://www.fintastic.ai/',
+  repo: '', // if no repo, the button will not show up
+},
+{
+  id: nanoid(),
+  img: 'rumble.jpg',
+  title: 'Rumble',
+  info: "Full-Stack Developer at YuviTal Rumble",
+  info2:
+    "I contributed to developing an admin dashboard and web components with React, MobX, and Material-UI in a team of six developers. I released six features to production, deployed the app using Heroku, added banners, and received a commendation from the CTO.",
+  url: 'https://www.rumble.co.il/',
+  repo: '', // if no repo, the button will not show up
+},
+{
+  id: nanoid(),
+  img: 'carKey.jpg',
+  title: 'Carkey4u',
+  info: 'Frontend developer',
+  info2:
+    "I collaborated with a team of four full-stack developers on a several-month project. My responsibilities included developing React UI components, closely adhering to Figma design specifications.",
+  url: 'https://key-4-you.com/',
+  repo: '', //'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+},
+{
+  id: nanoid(),
+  img: 'galgalyEzer.jpg',
+  title: 'Galgaley Ezer',
+  info:
+    'Freelance Full-stack developer',
+  info2:
+    "As a freelance Full Stack Developer for Galgaley-Ezer, an association that supports and impacts Israeli youth during their post-army lives, I worked closely with a private client on an end-to-end project. My responsibilities included defining the project's end goal, designing the layout, selecting suitable banner images and colors, and outlining the desired functionality. Throughout the process, I ensured the client was consistently updated on the project's progress.",
+  url: 'https://galgaleyezer.com/',
+  repo: 'https://github.com/0meram/course', // if no repo, the button will not show up
+},
+{
+  id: nanoid(),
+  img: 'dolla.jpg',
+  title: 'Dolla',
+  info: 'Virtual banking',
+  info2: '',
+  url: 'https://dollarz.netlify.app/',
+  repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+},
+{
+  id: nanoid(),
+  img: 'disney.jpg',
+  title: 'DisneyPlus',
+  info: 'disney stream',
+  info2: '',
+  url: 'https://omerdisney.netlify.app/',
+  repo: '', //'https://github.com/0meram/Disney', // if no repo, the button will not show up
+},
 ];
 
 // CONTACT DATA
