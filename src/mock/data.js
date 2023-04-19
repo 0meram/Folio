@@ -44,9 +44,9 @@ export const projectsData = [
     id: nanoid(),
     img: 'rumble.jpg',
     title: 'Rumble',
-    info: 'Full-stack developer intern at YuviTal rumble company',
+    info: "Full-Stack Developer at YuviTal Rumble",
     info2:
-      'Developed an admin dashboard and web-components using React, mobx, material-ui.           Working in a team of 3 frontend developer and 3 backend developers.            released 6 features to production.           Deployed using Heroku.      added banners to the app.                  Recommended by CTO.',
+      "I contributed to developing an admin dashboard and web components with React, MobX, and Material-UI in a team of six developers. I released six features to production, deployed the app using Heroku, added banners, and received a commendation from the CTO.",
     url: 'https://www.rumble.co.il/',
     repo: '', // if no repo, the button will not show up
   },
@@ -56,7 +56,7 @@ export const projectsData = [
     title: 'Carkey4u',
     info: 'Frontend developer',
     info2:
-      'Joined the effort of 4 full stack developers team as a freelancer on a three months project. Developed React UI components following figma design.',
+      "I collaborated with a team of four full-stack developers on a several-month project. My responsibilities included developing React UI components, closely adhering to Figma design specifications.",
     url: 'https://key-4-you.com/',
     repo: '', //'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
@@ -65,9 +65,9 @@ export const projectsData = [
     img: 'galgalyEzer.jpg',
     title: 'Galgaley Ezer',
     info:
-      'Freelance Full-stack developer Galgaley-Ezer is an association that promotes and influences the youth in Israeli society in a variety of areas and stages in their lives after serving the army.',
+      'Freelance Full-stack developer',
     info2:
-      'Working close with a private client, building the project end-2-end. defining the end goal , designing the project, choosing fit banners images and colors, and describing the desired outcome functionality. keeping the client updated with the current related status.',
+      "As a freelance Full Stack Developer for Galgaley-Ezer, an association that supports and impacts Israeli youth during their post-army lives, I worked closely with a private client on an end-to-end project. My responsibilities included defining the project's end goal, designing the layout, selecting suitable banner images and colors, and outlining the desired functionality. Throughout the process, I ensured the client was consistently updated on the project's progress.",
     url: 'https://galgaleyezer.com/',
     repo: 'https://github.com/0meram/course', // if no repo, the button will not show up
   },
