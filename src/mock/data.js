@@ -31,7 +31,7 @@ export const aboutData = {
 // PROJECTS DATA
 export const projectsData = [{
   id: nanoid(),
-  img: 'uxwhite.png',
+  img: 'ui.png',
   title: 'Brainnest',
   info: 'UX/UI designer student',
   info2:
