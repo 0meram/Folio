@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Omer Ram',
-  subtitle: 'Im a Full stack developer',
+  subtitle: "I'm a Full stack developer",
   cta: 'see more',
 };
 
@@ -19,11 +19,11 @@ export const heroData = {
 export const aboutData = {
   img: 'prof.jpg',
   paragraphOne:
-    'For the last almost 3 years I Dedicated my self to build and develop web applications, using: React.js, Java-script, Mobx, Node.js, Redux, Next.js, Ag-grid, React-query, mongoDB, Mysql, Express, HTML, CSS, material-ui, REST APIs, Unit-Testing, Git, Heroku, netlify and more..                  ',
+    'Over the past three years, I have been passionately dedicated to building and developing web applications using a diverse range of technologies, such as React.js, JavaScript, MobX, Node.js, Redux, Next.js, ag-Grid, React-Query, MongoDB, MySQL, Express, HTML, CSS, Material-UI, REST APIs, unit testing, Git, Heroku, Netlify, and more.',
   paragraphTwo:
-    'I am an Efficient full stack developer, who loves to code.                    I bring good vibes to the working place.            Looking to collaborate with curious and passionate developers, and being part of meaningful companies and projects.',
+    "As an efficient Full Stack Developer with a love for coding, I bring positive energy to the workplace. I am eager to collaborate with like-minded, passionate developers, and contribute to significant companies and projects that make a real impact.",
   paragraphThree:
-    'Very Independent with high self-learning abilities.  Always willing to learn more and to improve myself.   I believe in Hard work! while creating friendly relationships with my colleagues and clients.',
+    "I pride myself on my independence and strong self-learning abilities, constantly striving to learn more and enhance my skills. I believe in the power of hard work and fostering supportive relationships with colleagues and clients to achieve success",
   resume:
     'https://docs.google.com/document/d/19FjJPAyvcnm1E2UxT3o9BkbLlYnl6Q_Y/edit#heading=h.gjdgxs', // if no resume, the button will not show up
 };
@@ -34,9 +34,9 @@ export const projectsData = [
     id: nanoid(),
     img: 'fintastic.jpg',
     title: 'Fintastic',
-    info: 'Frontend developer in a stat-up fin-tech company',
+    info: 'Frontend developer in a start-up fin-tech company',
     info2:
-      'Worked in a team that includes 5 developers.                 Developed demo dashboard features for MVP React, Redux, material-ui, Ag-grid, react query.              Responsible for Design structure and developing Epic tasks, Working in a sprint team environment.                          Integrating with Back - end developers team, Product team, defining Api’s, and customer ux ui preferences.',
+      "As part of a five-member team, I helped develop demo dashboard features for an MVP using React, Redux, Material-UI, ag-Grid, and React-Query. My responsibilities included designing the structure, handling epic tasks, and collaborating in a sprint team environment. I also worked closely with backend developers, the product team, and customers to refine APIs and optimize UX/UI preferences.",
     url: 'https://www.fintastic.ai/',
     repo: '', // if no repo, the button will not show up
   },
@@ -45,7 +45,8 @@ export const projectsData = [
     img: 'rumble.jpg',
     title: 'Rumble',
     info: 'Full-stack developer intern at YuviTal rumble company',
-    info2: 'Developed an admin dashboard and web-components using React, mobx, material-ui.           Working in a team of 3 frontend developer and 3 backend developers.            released 6 features to production.           Deployed using Heroku.      added banners to the app.                  Recommended by CTO.',
+    info2:
+      'Developed an admin dashboard and web-components using React, mobx, material-ui.           Working in a team of 3 frontend developer and 3 backend developers.            released 6 features to production.           Deployed using Heroku.      added banners to the app.                  Recommended by CTO.',
     url: 'https://www.rumble.co.il/',
     repo: '', // if no repo, the button will not show up
   },
@@ -54,7 +55,8 @@ export const projectsData = [
     img: 'carKey.jpg',
     title: 'Carkey4u',
     info: 'Frontend developer',
-    info2: 'Joined the effort of 4 full stack developers team as a freelancer on a three months project. Developed React UI components following figma design.',
+    info2:
+      'Joined the effort of 4 full stack developers team as a freelancer on a three months project. Developed React UI components following figma design.',
     url: 'https://key-4-you.com/',
     repo: '', //'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
@@ -64,7 +66,8 @@ export const projectsData = [
     title: 'Galgaley Ezer',
     info:
       'Freelance Full-stack developer Galgaley-Ezer is an association that promotes and influences the youth in Israeli society in a variety of areas and stages in their lives after serving the army.',
-    info2: 'Working close with a private client, building the project end-2-end. defining the end goal , designing the project, choosing fit banners images and colors, and describing the desired outcome functionality. keeping the client updated with the current related status.',
+    info2:
+      'Working close with a private client, building the project end-2-end. defining the end goal , designing the project, choosing fit banners images and colors, and describing the desired outcome functionality. keeping the client updated with the current related status.',
     url: 'https://galgaleyezer.com/',
     repo: 'https://github.com/0meram/course', // if no repo, the button will not show up
   },
